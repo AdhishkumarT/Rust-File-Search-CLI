@@ -1,0 +1,6 @@
+INFO User login successful
+ERROR Database connection failed
+WARNING Disk usage high
+INFO Payment processed
+ERROR Network timeout
+INFO Service started

@@ -1,0 +1,8 @@
+[package]
+name = "rust-file-search-cli"
+version = "0.1.0"
+edition = "2021"
+
+description = "High-performance CLI tool in Rust for searching keywords in text files with line numbers."
+
+[dependencies]
